@@ -1,5 +1,15 @@
-# CSP4_Simple_Page
-Problem: Design and build a web page in response to the prompt 'something interesting about me.' This will be an opportunity to practice using GitHub as you create a simple site.
-<hr>
-<h1>All About Me!</h1>
-<p> I write really dark, <b>it's like I write in bold</b>.</p2>
+#Simple Page
+### All About Me.
+hhh
+
+### jifsijo
+i have no idea wha im doing
+
+### what
+????
+
+### no
+nah
+
+### Support or Contact
+Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
